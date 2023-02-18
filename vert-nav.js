@@ -14,7 +14,7 @@
     justify-content: center;
     top: 0;
     height: 100%;
-    writing-mode: vertical-rl;
+    writing-mode: horizontal-rl;
       z-index: 10000;
   }
   
