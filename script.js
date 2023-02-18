@@ -11,7 +11,7 @@
   .vertical-nav {
     position: fixed;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     top: 0;
     height: 100%;
     writing-mode: vertical-rl;
